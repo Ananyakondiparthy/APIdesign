@@ -1,4 +1,4 @@
-Ths Repo provides the API fundamentals using python
+This Repo provides the API fundamentals using python
 
 REST - Representational State Transfer - Scalable architectural style 
 

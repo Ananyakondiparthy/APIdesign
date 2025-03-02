@@ -18,7 +18,7 @@ REST Principles:
 
 * PATCH - for updating data but partially updating few attributes
 
-* DELETING - for deleting data
+* DELETE- for deleting data
 
 **Commonly used HTTP Status Code:**
 
